@@ -1,0 +1,3 @@
+struct HashMap<K, V> {
+    
+}
